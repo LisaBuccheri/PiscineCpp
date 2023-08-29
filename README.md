@@ -3,7 +3,7 @@ La piscine de cpp est une suite de projet varié dans le but de nous aider à co
 
 Chacun des modules a pour but de nous aider à comprendre certaines parties du language C++.
 
-C00 -> les spécificités du C++ par rapport au C.
+C00 -> les spécificités du C++ par rapport au C. \n
 C01 -> l'allocation de mémoire, la référence, les pointeurs vers les membres et l'utilisation du switch en CPP. 
 C02 -> le polymorphisme ad-hoc, les surcharges et les classes canoniques orthodoxes en CPP. 
 C03 -> l'héritage en CPP. 
