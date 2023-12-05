@@ -1,16 +1,16 @@
-# PiscineCpp
-La piscine de cpp est une suite de projet varié dans le but de nous aider à comprendre les spécificités du C++ par rapport au C. 
+# CppPool
+The cpp pool is a suite of varied projects designed to help us understand the specifics of C++ versus C. 
 
-Chacun des modules a pour but de nous aider à comprendre certaines parties du language C++.
+Each module is designed to help us understand certain parts of the C++ language.
 
-C00 -> les spécificités du C++ par rapport au C.
-C01 -> l'allocation de mémoire, la référence, les pointeurs vers les membres et l'utilisation du switch en CPP. 
-C02 -> le polymorphisme ad-hoc, les surcharges et les classes canoniques orthodoxes en CPP. 
-C03 -> l'héritage en CPP. 
-C04 -> le polymorphisme de sous-type, les classes abstraites et les interfaces dans CPP. 
-C05 -> les fonctions Try/Catch et les exceptions en CPP. 
-C06 -> les différents cast en CPP. 
-C07 -> les templates en CPP. 
-C08 -> les 'templates containers', les itérateurs et 'algorithms' en CPP. 
+  * C00 -> specificities of C++ compared to C.
+  * C01 -> memory allocation, reference, pointers to members and switch usage in CPP.
+  * C02 -> ad-hoc polymorphism, overloads and orthodox canonical classes in CPP.
+  * C03 -> Inheritance in CPP.
+  * C04 -> Subtype polymorphism, abstract classes and interfaces in CPP.
+  * C05 -> Try/Catch functions and exceptions in CPP.
+  * C06 -> CPP casts.
+  * C07 -> CPP templates.
+  * C08 -> Template containers, iterators and algorithms in CPP. 
 
-Pour chaque exercice il y un makefile qui compile et retourne le programme demandé.
+For each exercise there is a makefile that compiles and returns the requested program.
